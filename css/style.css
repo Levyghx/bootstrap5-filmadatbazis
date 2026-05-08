@@ -11,3 +11,7 @@ h1 {
 .card-img-top {
     height: 250px;
 }
+
+.ev {
+    font-style: italic;
+}
